@@ -14,3 +14,6 @@ Aloque dinamicamente um vetor de tamanho n.
 Preencha o vetor com valores aleatórios entre 1 e 100.
 Imprima os valores e a média.
 Libere a memória no final.
+
+Exercício 3. Manipulação de Strings
+Escreva uma função em C que receba uma string e remova todas as vogais (A, E, I, O, U).
